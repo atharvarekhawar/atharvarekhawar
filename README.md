@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance projects**
 
-- 👨‍💻 All of my projects are available at [https://stellar-manatee-eb5ba2.netlify.app/](https://stellar-manatee-eb5ba2.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-rho-sable-51.vercel.app/)
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB**
 
