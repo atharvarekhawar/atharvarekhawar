@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atharvarekhawar64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12i29YQ0MM-bKou8rwAIU4_t6evCq1cqx/view?usp=sharing](https://drive.google.com/file/d/12i29YQ0MM-bKou8rwAIU4_t6evCq1cqx/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1Cm5TIm7Ia0K-0FOlgm447K-qf8psuLjE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
