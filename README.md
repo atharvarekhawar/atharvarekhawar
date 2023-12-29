@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **Websockets , Next.js, WebRTC**
+- 🌱 I’m currently learning **AWS and DevOps tools**
 
 - 👯 I’m looking to collaborate on **Freelance projects**
 
