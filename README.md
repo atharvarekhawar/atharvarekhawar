@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Atharva Rekhawar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **Web3**
+<!-- 🌱 I’m currently learning **Web3** -->
 
 - 👯 I’m looking to collaborate on **Freelance projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-rho-sable-51.vercel.app/)
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **Full-Stack development**
 
 - 📫 How to reach me **atharvarekhawar64@gmail.com**
 
