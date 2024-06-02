@@ -16,6 +16,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_rekhawar_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-rekhawar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Atharva_28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AtharvaRekhawar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ATHARVA_7)
 
+[![](https://visitcount.itsvg.in/api?id=atharvarekhawar&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
 <h2 align="left">💻 Coding profiles</h2>
 <p align="left">
@@ -36,8 +38,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=atharvarekhawar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=atharvarekhawar&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
