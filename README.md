@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atharvarekhawar64@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1Cm5TIm7Ia0K-0FOlgm447K-qf8psuLjE/view?usp=drive_link)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1hbsXw6v_pift1om7S-DeoI_i8571v-JR/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_rekhawar_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-rekhawar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Atharva_28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AtharvaRekhawar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ATHARVA_7)
